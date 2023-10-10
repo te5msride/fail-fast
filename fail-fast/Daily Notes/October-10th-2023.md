@@ -8,8 +8,8 @@
 	- Due by November
 - Call for Workshop
 	- Would you like to participate in this workshop, it would be an honor to have your research spotlighted. We are planning to submit this workshop, talks on this, since you are an expert would you be interested in giving a talk on ...
-- Ramya
-	- Type up facts and template for Jafari
+~~- Ramya
+	- Type up facts and template for Jafari~~
 ~~- Lab Meeting/Website Information
 	- Friday
 		- Update current projects~~

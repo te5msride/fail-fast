@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f2fbe564073b9607",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/October-10th-2023.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RoboSoft Workshop.md",
+                "file": "Daily Notes/October-10th-2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RoboSoft Workshop.md",
+                "file": "Daily Notes/October-10th-2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RoboSoft Workshop.md"
+                "file": "Daily Notes/October-10th-2023.md"
               }
             }
           }
@@ -172,10 +184,12 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "ce189bf1e8168bb6",
+  "active": "f2fbe564073b9607",
   "lastOpenFiles": [
-    "Daily Notes/October-10th-2023.md",
+    "Ramya Letter of Recommendation.md",
     "RoboSoft Workshop.md",
+    "Untitled",
+    "Daily Notes/October-10th-2023.md",
     "Topics/Differentiable Optimal Control.md",
     "Topics/Incremental Potential Contact.md",
     "Topics",
