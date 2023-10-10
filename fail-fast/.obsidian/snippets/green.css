@@ -1,0 +1,53 @@
+/* Theme Background and Text Color */
+body {
+    background-color: #2e4d27; /* Deep forest green background */
+    color: #e0f2e9; /* Light green text for contrast */
+}
+
+/* Hyperlink Color */
+a {
+    color: #32CD32; /* Lime green for links */
+}
+
+/* Headings: Color and Size Adjustments */
+h1 {
+    color: #FFD700; /* Gold */
+    font-size: 2em; /* 2 times base size */
+}
+
+h2 {
+    color: #FF4500; /* Orange-Red */
+    font-size: 1.8em; /* Slightly smaller than h1 */
+}
+
+h3 {
+    color: #1E90FF; /* Dodger Blue */
+    font-size: 1.6em;
+}
+
+h4 {
+    color: #8A2BE2; /* Blue-Violet */
+    font-size: 1.4em;
+}
+
+h5 {
+    color: #FF69B4; /* Hot Pink */
+    font-size: 1.2em;
+}
+
+h6 {
+    color: #00CED1; /* Dark Turquoise */
+    font-size: 1em; /* Base size */
+}
+
+/* Editor Cursor and Selection */
+.cm-cursor, .CodeMirror-cursor {
+    border-left-color: #32CD32; /* Lime green cursor */
+}
+
+.cm-selectionBackground, .cm-selectionBackground:focus {
+    background-color: rgba(34, 139, 34, 0.3); /* 30% opacity Forest Green 
+for selection */
+}
+
+
