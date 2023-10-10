@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "add.md",
+                "file": "Daily Notes/October-9th-2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "add.md",
+                "file": "Daily Notes/October-9th-2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "add.md",
+                "file": "Daily Notes/October-9th-2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "add.md"
+                "file": "Daily Notes/October-9th-2023.md"
               }
             }
           }
@@ -150,7 +150,9 @@
   "active": "c6177887e18b72ba",
   "lastOpenFiles": [
     "Untitled.md",
-    "add.md",
-    "Test.md"
+    "Daily Notes/October-9th-2023.md",
+    "Daily Notes",
+    "Test.md",
+    "add.md"
   ]
 }
