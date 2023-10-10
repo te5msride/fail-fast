@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/October-9th-2023.md",
+                "file": "Topics/Differentiable Optimal Control.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2f7335145d9b5d03",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/October-10th-2023.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/October-9th-2023.md",
+                "file": "Daily Notes/October-10th-2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/October-9th-2023.md",
+                "file": "Daily Notes/October-10th-2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/October-9th-2023.md"
+                "file": "Daily Notes/October-10th-2023.md"
               }
             }
           }
@@ -147,12 +160,19 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "c6177887e18b72ba",
+  "active": "2f7335145d9b5d03",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Daily Notes/October-9th-2023.md",
-    "Daily Notes",
+    "Topics/Differentiable Optimal Control.md",
+    "Daily Notes/October-10th-2023.md",
+    "Topics/Incremental Potential Contact.md",
+    "Topics",
+    "Attachments/IPC paper fullRes.pdf",
+    "Attachments/diff_sim_soft_robots_crr21.pdf",
+    "Attachments",
     "Test.md",
+    "Daily Notes/October-9th-2023.md",
+    "Untitled.md",
+    "Daily Notes",
     "add.md"
   ]
 }
