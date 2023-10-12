@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "30cf0c3d2929af79",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BMES 2023.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/October-11th-2023.md",
+                "file": "BMES 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/October-11th-2023.md",
+                "file": "BMES 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/October-11th-2023.md"
+                "file": "BMES 2023.md"
               }
             }
           }
@@ -184,10 +196,11 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "f2fbe564073b9607",
+  "active": "30cf0c3d2929af79",
   "lastOpenFiles": [
-    "RoboSoft Workshop.md",
     "Daily Notes/October-11th-2023.md",
+    "BMES 2023.md",
+    "RoboSoft Workshop.md",
     "Daily Notes/October-10th-2023.md",
     "Ramya Letter of Recommendation.md",
     "Untitled",
