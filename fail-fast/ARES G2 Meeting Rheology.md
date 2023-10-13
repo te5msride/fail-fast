@@ -20,3 +20,4 @@ chiller panel $8,380
 
 lead time 25 days hr series
 
+Exley, T., Johnson, D., Jafari, A. (Under Revision) A Novel Thermo-Responsive Soft Actuation Technology based on Phase-Change Material. Sensors and Actuators A: Physical.
