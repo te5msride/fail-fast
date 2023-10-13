@@ -10,5 +10,13 @@ Vibrating Sample Magnetometer
 TA Instruments
 Products
 HR Accessories
-Magneto-Rheology
+Magneto-Rheology 21k
+-50 26k vs -60 30something k
+chiller panel $8,380
+
+74k vs 58k; 20 vs 30 hr
+
+144k with discount ares 45 days
+
+lead time 25 days hr series
 
