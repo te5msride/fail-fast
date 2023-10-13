@@ -20,5 +20,3 @@ chiller panel $8,380
 
 lead time 25 days hr series
 
-- **R&D Leadership**: Spearheaded innovative soft actuation technology development, transitioning groundbreaking concepts to market-ready products across various industries.
-    - **Educational Impact**: Established partnerships with K-12 schools, implementing a robotics curriculum that emphasizes 3D printing, circuits, coding, and robotics design, nurturing future tech leaders.
