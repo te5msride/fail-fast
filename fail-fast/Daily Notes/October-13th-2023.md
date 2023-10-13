@@ -8,3 +8,5 @@ Operationalizing the Power of Convergence in Academia
 Embrace the power of collaboration to ensure succeess
 
 Innovative Cross-Disciplinary Curricular 
+
+Great Minds Do NOT Think Alike
