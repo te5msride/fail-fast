@@ -15,4 +15,6 @@ Carmel Majidi Postdoc
 - Multiple postdoc openings in wearable electronics for environmental and physiological monitoring. Projects include formulation of novel printable inks for stretchable circuits and transducers as well as robust microelectronics integration and energy harvesting.
 - Postdoc opening for novel materials and 3D printing techniques for in-space additive manufacturing. Project includes on-orbit repair and fabrication of space technologies with space grade polymers using a 6 DOF robot printer.
 
+Harvard Microrobotics Laboratory 
 
+-- Apply for TRISH NASA project, but contact Dr. Robert Wood for it.
