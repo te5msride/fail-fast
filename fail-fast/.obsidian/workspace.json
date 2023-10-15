@@ -13,24 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/October-14th-2023.md",
+                "file": "STTR.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "6477ba3ae3b114a2",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.16"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -80,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f45733fa03f03bcd",
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/October-14th-2023.md",
+                "file": "STTR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/October-14th-2023.md",
+                "file": "STTR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/October-14th-2023.md"
+                "file": "STTR.md"
               }
             }
           }
@@ -159,15 +147,17 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "6477ba3ae3b114a2",
+  "active": "1b6e4673a2d927e8",
   "lastOpenFiles": [
+    "Daily Notes/October-15th-2023.md",
+    "Untitled.md",
+    "STTR.md",
     "Daily Notes/October-14th-2023.md",
     "Daily Notes/October-13th-2023.md",
     "BMES 2023.md",
     "SRS-NT.md",
     "ARES G2 Meeting Rheology.md",
     "Daily Notes/October-12th-2023.md",
-    "STTR.md",
     "Daily Notes/October-10th-2023.md",
     "Topics/Differentiable Optimal Control.md",
     "RoboSoft Workshop.md",
