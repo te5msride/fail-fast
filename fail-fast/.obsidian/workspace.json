@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6477ba3ae3b114a2",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -148,7 +159,7 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "1b6e4673a2d927e8",
+  "active": "6477ba3ae3b114a2",
   "lastOpenFiles": [
     "Daily Notes/October-14th-2023.md",
     "Daily Notes/October-13th-2023.md",
