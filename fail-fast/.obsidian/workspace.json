@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "STTR.md",
+                "file": "Daily Notes/October-15th-2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "STTR.md",
+                "file": "Daily Notes/October-15th-2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "STTR.md",
+                "file": "Daily Notes/October-15th-2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "STTR.md"
+                "file": "Daily Notes/October-15th-2023.md"
               }
             }
           }
@@ -149,9 +149,9 @@
   },
   "active": "1b6e4673a2d927e8",
   "lastOpenFiles": [
+    "STTR.md",
     "Daily Notes/October-15th-2023.md",
     "Untitled.md",
-    "STTR.md",
     "Daily Notes/October-14th-2023.md",
     "Daily Notes/October-13th-2023.md",
     "BMES 2023.md",
